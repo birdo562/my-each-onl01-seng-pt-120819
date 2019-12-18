@@ -1,5 +1,5 @@
 def my_each(arguments)
-  i=9
+  i=0
  while i<arguments.length
   yield(arguments[i])
   i= i+1
